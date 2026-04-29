@@ -122,7 +122,7 @@ export function Footer() {
           {/* Cambiamos justify-between por justify-center */}
           <div className="flex flex-col justify-center items-center text-center">
             <p className="text-sm text-gray-500">
-              © 2026 Altoky. Todos los derechos reservados - Cod3Hive Labs.
+              © Abril,2026 Altoky. Todos los derechos reservados - Cod3Hive Labs.
             </p>
           </div>
         </div>
